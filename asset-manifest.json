@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cruelty-free-brand-checker/static/css/main.3321066c.css",
+    "main.js": "/cruelty-free-brand-checker/static/js/main.38f2b1d6.js",
+    "static/js/787.18914129.chunk.js": "/cruelty-free-brand-checker/static/js/787.18914129.chunk.js",
+    "index.html": "/cruelty-free-brand-checker/index.html",
+    "main.3321066c.css.map": "/cruelty-free-brand-checker/static/css/main.3321066c.css.map",
+    "main.38f2b1d6.js.map": "/cruelty-free-brand-checker/static/js/main.38f2b1d6.js.map",
+    "787.18914129.chunk.js.map": "/cruelty-free-brand-checker/static/js/787.18914129.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3321066c.css",
+    "static/js/main.38f2b1d6.js"
+  ]
+}
